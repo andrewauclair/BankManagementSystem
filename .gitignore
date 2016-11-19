@@ -27,3 +27,17 @@
 *.exe
 *.out
 *.app
+*.suo
+/ATM/ATM/Debug
+/ATM/Bank/Debug
+/ATM/Common/Debug
+/ATM/Server/Debug
+/ATM/Debug
+/ATM/ATM.VC.VC.opendb
+/ATM/ATM.VC.db
+/ATM/ATM/Release
+/ATM/ATM/x64
+/ATM/Common/x64
+/ATM/Common/Release
+/ATM/Release
+/ATM/x64
